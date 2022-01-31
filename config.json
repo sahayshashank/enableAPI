@@ -1,0 +1,5 @@
+{
+    "keyPath": "applicationID.pem",
+    "applicationId": "applicationID",
+    "redirectUrl": "https://enablebanking.com/tilisy-api/"
+}
